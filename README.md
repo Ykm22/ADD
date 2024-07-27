@@ -11,7 +11,7 @@
 
 - Modified ResNet18 and ResNet101 models tested with different input modalities: 1-slice and 8-slice coronal-axis images around the hippocampus
 
-# Challenges Met
+# Challenges
 
 - Data gathering and analysis
 - Preprocessing
